@@ -1,1 +1,5 @@
-# 2012105_MiniProjectI
+# 2012105_MiniProjectI 
+National Institute of Technology Silchar, 
+MiniProject-I,
+Data Structures, 
+Course Code: CS 201 
